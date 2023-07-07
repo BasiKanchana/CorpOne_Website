@@ -1,0 +1,17 @@
+.nav-item {
+   margin-left:7px ; 
+   line-height: 60px;
+   font-size:22px ;
+  
+}  
+.nav-item :hover {
+    color: rgb(82, 184, 252);
+    background-color: #e5eff8;
+    border-bottom:5px solid  rgb(56, 166, 240)  ;
+    /* margin: 0px;
+    padding-top:10px ; */
+}
+.header-navsection {
+    position: fixed;
+    z-index: 1;
+}
